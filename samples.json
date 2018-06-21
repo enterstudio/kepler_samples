@@ -17,7 +17,7 @@
     "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
     "size": 3969,
     "dataUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/tererorism_data.csv",
-    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_hexbin_config.json"
+    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_hexbin_config2.json"
   },
     {
     "id": "terrorism3",
