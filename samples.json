@@ -10,8 +10,8 @@
     "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_config2.json"
   },
     {
-    "id": "terrorism",
-    "label": "Wikipedia Terrorism Scrape",
+    "id": "terrorism2",
+    "label": "Wikipedia Terrorism Scrape 2",
     "queryType": "sample",
     "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_thumbnail.png",
     "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
@@ -20,8 +20,8 @@
     "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_config2.json"
   },
     {
-    "id": "terrorism",
-    "label": "Wikipedia Terrorism Scrape",
+    "id": "terrorism3",
+    "label": "Wikipedia Terrorism Scrape 3",
     "queryType": "sample",
     "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_thumbnail.png",
     "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
