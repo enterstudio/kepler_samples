@@ -8,8 +8,8 @@
           "id": "wbzwle",
           "type": "point",
           "config": {
-            "dataId": "q680iely5",
-            "label": "new layer",
+            "dataId": "terrorism",
+            "label": "terorism",
             "color": [
               119,
               110,
@@ -67,7 +67,7 @@
       "interactionConfig": {
         "tooltip": {
           "fieldsToShow": {
-            "q680iely5": [
+            "terrorism": [
               "column_0",
               "Date-Formatted",
               "Location",
