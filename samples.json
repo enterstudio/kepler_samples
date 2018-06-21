@@ -1,7 +1,7 @@
 [
   {
     "id": "terrorism",
-    "label": "Wikipedia Terrorism Scrape",
+    "label": "Wikipedia Terrorism Scrape Point",
     "queryType": "sample",
     "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_thumbnail.png",
     "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
@@ -10,14 +10,14 @@
     "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_config2.json"
   },
     {
-    "id": "terrorism2",
-    "label": "Wikipedia Terrorism Scrape 2",
+    "id": "terrorism_hexbin",
+    "label": "Wikipedia Terrorism Scrape Hexbin",
     "queryType": "sample",
-    "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_thumbnail.png",
+    "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_hexbin.png",
     "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
     "size": 3969,
     "dataUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/tererorism_data.csv",
-    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_config2.json"
+    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/terrorism/terrorism_hexbin_config.json"
   },
     {
     "id": "terrorism3",
