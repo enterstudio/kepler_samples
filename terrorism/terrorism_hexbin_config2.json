@@ -8,7 +8,7 @@
           "id": "9nmkm2b",
           "type": "hexagon",
           "config": {
-            "dataId": "3h4dnjtl",
+            "dataId": "terrorism_hexbin",
             "label": "Terrorism Hexbin",
             "color": [
               119,
@@ -69,7 +69,7 @@
       "interactionConfig": {
         "tooltip": {
           "fieldsToShow": {
-            "3h4dnjtl": [
+            "terrorism_hexbin": [
               "column_0",
               "Date-Formatted",
               "Location",
