@@ -1,0 +1,111 @@
+{
+  "version": "v1",
+  "config": {
+    "visState": {
+      "filters": [],
+      "layers": [
+        {
+          "id": "wbzwle",
+          "type": "point",
+          "config": {
+            "dataId": "q680iely5",
+            "label": "new layer",
+            "color": [
+              119,
+              110,
+              87
+            ],
+            "columns": {
+              "lat": "y",
+              "lng": "x",
+              "altitude": null
+            },
+            "isVisible": true,
+            "visConfig": {
+              "radius": 10,
+              "fixedRadius": false,
+              "opacity": 0.35,
+              "outline": false,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Uber Viz Qualitative 1.6",
+                "type": "qualitative",
+                "category": "Uber",
+                "colors": [
+                  "#12939A",
+                  "#DDB27C",
+                  "#88572C",
+                  "#FF991F",
+                  "#F15C17",
+                  "#223F9A",
+                  "#DA70BF",
+                  "#125C77"
+                ],
+                "reversed": false
+              },
+              "radiusRange": [
+                15,
+                70
+              ],
+              "hi-precision": false
+            }
+          },
+          "visualChannels": {
+            "colorField": {
+              "name": "Standardized-Perpetrator",
+              "type": "string"
+            },
+            "colorScale": "ordinal",
+            "sizeField": {
+              "name": "Adjusted-Fatalities",
+              "type": "integer"
+            },
+            "sizeScale": "sqrt"
+          }
+        }
+      ],
+      "interactionConfig": {
+        "tooltip": {
+          "fieldsToShow": {
+            "q680iely5": [
+              "column_0",
+              "Date-Formatted",
+              "Location",
+              "Dead",
+              "Adjusted-Fatalities"
+            ]
+          },
+          "enabled": true
+        },
+        "brush": {
+          "size": 0.5,
+          "enabled": false
+        }
+      },
+      "layerBlending": "normal",
+      "splitMaps": []
+    },
+    "mapState": {
+      "bearing": 0,
+      "dragRotate": false,
+      "latitude": 29.004593322423357,
+      "longitude": 41.999394648588385,
+      "pitch": 0,
+      "zoom": 3.69841554335341,
+      "isSplit": false
+    },
+    "mapStyle": {
+      "styleType": "light",
+      "topLayerGroups": {},
+      "visibleLayerGroups": {
+        "label": true,
+        "road": true,
+        "border": true,
+        "building": true,
+        "water": true,
+        "land": true
+      },
+      "mapStyles": {}
+    }
+  }
+}
