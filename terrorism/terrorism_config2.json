@@ -9,7 +9,7 @@
           "type": "point",
           "config": {
             "dataId": "terrorism",
-            "label": "terorism",
+            "label": "Point",
             "color": [
               119,
               110,
