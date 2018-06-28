@@ -10,16 +10,6 @@
     "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest_config.json"
   },
   {
-    "id": "acled_2018_Iran_Protest_data_config",
-    "label": "ACLED Iran 2018 Protests and Riots",
-    "queryType": "sample",
-    "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest.png",
-    "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
-    "size": 1080,
-    "dataUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest.csv",
-    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest_config3.json"
-  },
-  {
     "id": "terrorism",
     "label": "Wikipedia Terrorism Scrape Point",
     "queryType": "sample",
