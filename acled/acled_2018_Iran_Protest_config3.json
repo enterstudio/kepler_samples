@@ -3,7 +3,7 @@
     {
       "version": "v1",
       "data": {
-        "id": "ou6bt3su",
+        "id": "acled_2018_Iran_Protest_data_config",
         "label": "acled_2018_Iran_Protest.csv",
         "color": [
           143,
@@ -24945,7 +24945,7 @@
       "visState": {
         "filters": [
           {
-            "dataId": "ou6bt3su",
+            "dataId": "acled_2018_Iran_Protest_data_config",
             "id": "qyoye76ha",
             "name": "EVENT_DATE",
             "type": "timeRange",
@@ -25003,7 +25003,7 @@
         "interactionConfig": {
           "tooltip": {
             "fieldsToShow": {
-              "ou6bt3su": [
+              "acled_2018_Iran_Protest_data_config": [
                 "column_0",
                 "EVENT_DATE",
                 "YEAR",
