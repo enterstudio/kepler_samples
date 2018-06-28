@@ -5,7 +5,7 @@
       "visState": {
         "filters": [
           {
-            "dataId": "ou6bt3su",
+            "dataId": "acled_2018_Iran_Protest",
             "id": "qyoye76ha",
             "name": "EVENT_DATE",
             "type": "timeRange",
@@ -23,7 +23,7 @@
             "id": "xx1ia3c",
             "type": "heatmap",
             "config": {
-              "dataId": "ou6bt3su",
+              "dataId": "acled_2018_Iran_Protest",
               "label": "ACLED",
               "color": [
                 119,
@@ -63,7 +63,7 @@
         "interactionConfig": {
           "tooltip": {
             "fieldsToShow": {
-              "ou6bt3su": [
+              "acled_2018_Iran_Protest": [
                 "column_0",
                 "EVENT_DATE",
                 "YEAR",
