@@ -10,7 +10,7 @@
     "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest_config.json"
   },
     {
-    "id": "acled_2018_Iran_Protest",
+    "id": "acled_2018_Iran_Protest_data_config",
     "label": "ACLED Iran 2018 Protests and Riots",
     "queryType": "sample",
     "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest.png",
