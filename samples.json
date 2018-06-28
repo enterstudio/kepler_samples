@@ -1,13 +1,13 @@
 [
   {
-    "id": "acled_iran_2018_protest,
+    "id": "acled_2018_Iran_Protest,
     "label": "ACLED Iran 2018 Protests and Riots",
     "queryType": "sample",
-    "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_iran_2018_protest.png",
+    "imageUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest.png",
     "description": "Events of terrorist activities 2016-2018 taken from Wikipedia.",
     "size": 1080,
-    "dataUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_iran_2018_protest.csv",
-    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_iran_2018_protest.json"
+    "dataUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest.csv",
+    "configUrl": "https://raw.githubusercontent.com/magamonsta/kepler_samples/master/acled/acled_2018_Iran_Protest.json"
   },
   {
     "id": "terrorism",
